@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @QualityOfLifeSB
-- 👀 I’m interested in Uploading Skyblock Hack clients
-<!---
-QualityOfLifeSB/QualityOfLifeSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When you successfully add the mod to the .minecraft mod folder please be mindful that we don't have child mod please be ware of any type of scams
